@@ -1,7 +1,10 @@
+fastapi
+uvicorn
 flask
 scikit-learn
 pandas
 numpy
 joblib
-uvicorn
-fastapi
+python-multipart
+requests
+earthengine-api
